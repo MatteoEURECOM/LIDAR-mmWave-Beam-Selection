@@ -11,7 +11,7 @@
 * Prof. David Gesbert, Communication Systems Department, EURECOM, Sophia-Antipolis, France, Email: david.gesbert@eurecom.fr
 
 ## Dataset
-In this work we use Raymobtime<sup>2</sup> dataset, which is a collection of realistic ray-tracing data obtained by simulating traffic in environment highly inspired by real world data. It utilizes SUMO for mobility simulations, Insite for ray-tracing, Cadmapper and Open Street Map for importing realistic outdoor scenarios. The dataset is divided into smaller sets, with different frequencies considered, various number of receivers, and environments. We trained our models on the s008 dataset (we combined both training and validation subsets) and validated on s009. 
+In this work we use Raymobtime dataset, which is a collection of realistic ray-tracing data obtained by simulating traffic in environment highly inspired by real world data. It utilizes SUMO for mobility simulations, Insite for ray-tracing, Cadmapper and Open Street Map for importing realistic outdoor scenarios. The dataset is divided into smaller sets, with different frequencies considered, various number of receivers, and environments. We trained our models on the s008 dataset (we combined both training and validation subsets) and validated on s009. 
 
 ## Questions?
 If you have any further questions related to this repo, feel free to contact us at zecchin@eurecom.fr or raise an Issue within this repo. We will do our best to reply as soon as possible.
